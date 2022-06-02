@@ -1,9 +1,9 @@
 {
-  "title": "Maou Retry",
-  "description": "Teste",
-  "artist": "manga artist",
-  "author": "manga author",
-  "cover": "https://i.imgur.com/ZEaSVTu.png",
+  "title": "<Maou Retry>",
+  "description": "<Teste>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<https://i.imgur.com/ZEaSVTu.png>",
   "chapters": {
     "<chapter number>": {
       "title": "<chapter name>",
